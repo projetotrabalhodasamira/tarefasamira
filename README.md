@@ -7,6 +7,7 @@ Todas as tarefas e comandos das tarefas devem ter a captura de tela e colocado n
 Os passo 1 e 2 devem ser feito o pull request para este repositório, utilizando um arquivo nomeado como "iniciandoTarefas.doc". Neste arquivo deverá conter as imagens dos comandos e a evidência que os comandos funcionaram.
 
 1 - Fazer um fork deste repositório para a sua conta do github.
+
 2 - na sua conta do github, clonar na sua máquina o repositorio "tarefasamira", utilizando o comando "git clone"
 
 
