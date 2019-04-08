@@ -7,6 +7,11 @@ Antes de iniciar este projeto, setguir os seguintes passos:
 
 2 - na sua conta do github, clonar na sua máquina o repositorio "tarefasamira", utilizando o comando "git clone"
 
+3 - Instalar em sua máquina o VSCODE, para editar os arquivos
+
+https://code.visualstudio.com/docs/?dv=win64
+
+
 OBSERVAÇÃO:
 
 Todas as tarefas e comandos das tarefas devem ter a captura de tela e colocado num documento word, com imagens da captura de tela, pode utilizar a ferramente "Captura de tela".  
