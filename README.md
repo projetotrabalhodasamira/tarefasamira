@@ -35,7 +35,7 @@ TAREFAS
   
   -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
   
-09/04/2019 -  CRIAR ESTRUTURA BÁSICA DE UMA TABELA
+09/04/2019 -  CRIAR ESTRUTURA BÁSICA DE UMA TABELA DENTRO DA ESTRUTURA DE HTML
   
   -> Estudar sobre Tabelas no Html
   
@@ -54,7 +54,7 @@ TAREFAS
   -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
   
 
-10/04/2019 - CRIAR ESTRUTURA BÁSICA DE FORMULÁRIO
+10/04/2019 - CRIAR ESTRUTURA BÁSICA DE FORMULÁRIO DENTRO DA ESTRUTURA DE HTML
 
   -> Estudar sobre Formulário HTML
   
