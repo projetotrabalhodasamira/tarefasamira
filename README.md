@@ -23,15 +23,17 @@ TAREFAS
 
 08/04/2019 - CRIAR ESTRUTURA BÁSICA DE HTML
 
-  -> Na máquina local, criar pasta no projeto tarefasamira chamado html 
+  -> Abrir o VSCode, e abrir no VSCode abrir o projeto "tarefassamira"
+  
+  -> criar pasta no projeto tarefasamira chamado html 
   
   -> Criar um arquivo chamado "index.html"  
   
-  -> Criar a estrutura básica de html neste arquivo 
+  -> Abrir o arquivo index.html, como o VSCode e criar a estrutura básica de html neste arquivo 
   
-  -> Realizar o commit inicial do arquivo
+  -> Realizar os commits e push para o servidor
   
-  -> Fazer o push e depois fazer o pullrequest do arquivo para eu aprovar no meu projeto.
+  -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
   
 09/04/2019
 
