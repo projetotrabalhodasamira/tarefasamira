@@ -1,6 +1,8 @@
 # tarefasamira
 Tarefas Samira
 
+CONFIGURAÇÃO DA MÁQUINA / PROJETO
+
 Antes de iniciar este projeto, setguir os seguintes passos:
 
 1 - Fazer um fork deste repositório para a sua conta do github.
