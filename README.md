@@ -35,11 +35,61 @@ TAREFAS
   
   -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
   
-09/04/2019
+09/04/2019 -  CRIAR ESTRUTURA BÁSICA DE UMA TABELA
+  
+  -> Estudar sobre Tabelas no Html
+  
+  -> Criar uma tabela com quatro colunas e 10 linhas
+  
+  -> Nomes das colunas devem ser (id, nome, descrição, ação)
+  
+  -> Adicionar dados fake nas linhas da tabela
+  
+  Pode estudar e testar as tabelas no site:
+  
+  http://www.clem.ufba.br/tuts/html/c09.htm
+  
+  Realizar os commits e push para o servidor
+  
+  -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
+  
 
-10/04/2019
+10/04/2019 - CRIAR ESTRUTURA BÁSICA DE FORMULÁRIO
 
-11/04/2019
+  -> Estudar sobre Formulário HTML
+  
+  -> Adicionar uma action = "#" e um method 'post' no formulário
+  
+  -> Adicionar um label e um input para id='nome'
+  
+  -> Adicionar um label e um textarea para id='descricao'
+  
+  -> Adicionar um button do tipo reset para enviar a mensagem
+  
+  -> Adicionar um button do tipo submit para enviar a mensagem
+  
+  -> Adicionar um Label para listar os estados brasileiros
+  
+  pode estudar referencias como:
+  
+  https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML
+  https://www.htmlprogressivo.net/2014/01/Como-criar-um-formulario-completo-para-um-site.html
+  
+  Realizar os commits e push para o servidor
+  
+  -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
 
-12/04/2019
+11/04/2019 - HTML + CSS
+
+  -> Estudar sobre CSS
+  
+  -> Adicionar efeitos nas tabelas
+  
+  -> Adicionar efeitos no Formulário
+  
+  Realizar os commits e push para o servidor
+  
+  -> entrar no github e fazer o pullrequest dos arquivos trabalhados.
+  
+12/04/2019 - 
 
