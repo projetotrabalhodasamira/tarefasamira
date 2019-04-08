@@ -13,11 +13,20 @@ Os passo 1 e 2 devem ser feito o pull request para este repositório, utilizando
 
 08/04/2019 - CRIAR ESTRUTURA BÁSICA DE HTML
   -> Na máquina local, criar pasta no projeto tarefasamira chamado html 
+  
   -> Criar um arquivo chamado "index.html"  
+  
   -> Criar a estrutura básica de html neste arquivo 
-  -> Realizar o commit inicial do arquivo, 
+  
+  -> Realizar o commit inicial do arquivo
+  
   -> Fazer o push e depois fazer o pullrequest do arquivo para eu aprovar no meu projeto.
+  
 09/04/2019
+
 10/04/2019
+
 11/04/2019
+
 12/04/2019
+
